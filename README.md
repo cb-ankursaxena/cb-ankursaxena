@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cb-ankursaxena
 - 👀 I’m interested in writing codes and exploring new Technologies
 - 🌱 I’m currently learning AWS and Microservices Architecture
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 cb-ankursaxena/cb-ankursaxena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
